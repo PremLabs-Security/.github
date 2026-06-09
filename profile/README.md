@@ -50,8 +50,8 @@ We welcome contributions from the community! Please refer to our [CONTRIBUTING.m
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PremLabs-Security&show_icons=true&theme=radical" alt="PremLabs-Security GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PremLabs-Security&theme=radical" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Prem2868&show_icons=true&theme=dark" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prem2868&layout=compact&theme=dark" alt="Top Languages"/>
 </p>
 
 ---
