@@ -1,118 +1,61 @@
+# PremLabs-Security
 
 <div align="center">
-  
-# 🔬 PremLabs Security Research Laboratory
-
-**Advanced AI & Cybersecurity Research Initiative**
-
-[
-
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
-
-](https://opensource.org/licenses/MIT)
-[
-
-![Research Status: Active](https://img.shields.io/badge/Research_Status-Active-brightgreen?style=for-the-badge)
-
-](https://github.com/PremLabs-Security)
-[
-
-![Lab Type: Academic Research](https://img.shields.io/badge/Lab_Type-Academic_Research-blue?style=for-the-badge)
-
-](https://github.com/PremLabs-Security)
-[
-
-![Contributions: Welcome](https://img.shields.io/badge/Contributions-Welcome-success?style=for-the-badge)
-
-](CONTRIBUTING.md)
-
-**Pune, Maharashtra, India** | Established 2024
-
----
-
+  <img src="https://raw.githubusercontent.com/PremLabs-Security/.github/main/profile/banner.png" alt="PremLabs-Security Banner" width="700"/>
 </div>
 
-## 📋 Laboratory Overview
+## 🚀 Mission Statement
 
-PremLabs Security is an independent academic research laboratory dedicated to advancing the intersection of **Artificial Intelligence** and **Cybersecurity**. Our mission is to conduct rigorous, reproducible research that contributes to the global security community through open science principles, peer-reviewed methodologies, and accessible tools.
-
-## 🎯 Laboratory Mission
-
-> *To conduct cutting-edge research in AI security and cybersecurity, develop innovative solutions that advance the field, and share knowledge openly with the global research community.*
-
-## 🔍 Research Areas
-
-### 1. Large Language Model Security Analysis 🤖
-- Adversarial prompt injection detection
-- LLM behavior pattern recognition
-- Jailbreak vulnerability identification
-
-### 2. Intelligent Cyber Threat Detection ⚠️
-- Network traffic anomaly detection
-- Behavioral pattern recognition
-- Real-time threat intelligence
-
-### 3. AI-Powered Security Automation 🔐
-- Automated vulnerability scanning
-- Intelligent penetration testing
-- Security orchestration (SOAR)
+AI Security Research Lab | Building open source cybersecurity tools
 
 ## 📚 Projects
 
-#### 🛡️ MythosAI-CyberSec
-- Real-time threat analysis
-- LLM-powered vulnerability assessment
-- [github.com/Prem2868/MythosAI-CyberSec](https://github.com/Prem2868/MythosAI-CyberSec)
+Here are the key projects developed by PremLabs-Security:
 
-#### 🔍 Network Reconnaissance Toolkit
-- [github.com/Prem2868/network-recon-toolkit](https://github.com/Prem2868/network-recon-toolkit)
+### MCPSentinel
 
-#### 🌐 AI Research Portfolio
-- [pramod-jogdand.pages.dev](https://pramod-jogdand.pages.dev)
+A tool designed to detect exposed or unauthenticated Model Context Protocol (MCP) endpoints and Ollama servers, enhancing the security posture of AI/ML deployments.
 
-## 👥 Laboratory Team
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/PremLabs-Security/MCPSentinel/ci.yml?branch=main&label=CI/CD&style=for-the-badge)](https://github.com/PremLabs-Security/MCPSentinel/actions)
+[![License](https://img.shields.io/github/license/PremLabs-Security/MCPSentinel?style=for-the-badge)](https://github.com/PremLabs-Security/MCPSentinel/blob/main/LICENSE)
 
-**Pramod Jogdand** | [@Prem2868](https://github.com/Prem2868)
-- Role: Laboratory Director & Lead Researcher
-- ORCID: [0009-0009-1259-4495](https://orcid.org/0009-0009-1259-4495)
+### MythosAI-CyberSec
 
-## 📊 Research Roadmap
+An AI-powered cybersecurity assistant tool that leverages advanced AI models for threat analysis, vulnerability assessment, and security automation.
 
-| Objective | Status | Timeline |
-|-----------|--------|----------|
-| MythosAI v2.0 | 🔄 In Progress | Q4 2024 |
-| Threat Detection System | 📋 Planned | Q1 2025 |
-| Peer-reviewed Publication | 📋 Planned | Q2 2025 |
-| Open-source Toolkit v1.0 | ✅ Complete | Q2 2024 |
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/PremLabs-Security/MythosAI-CyberSec/ci.yml?branch=main&label=CI/CD&style=for-the-badge)](https://github.com/PremLabs-Security/MythosAI-CyberSec/actions)
+[![License](https://img.shields.io/github/license/PremLabs-Security/MythosAI-CyberSec?style=for-the-badge)](https://github.com/PremLabs-Security/MythosAI-CyberSec/blob/main/LICENSE)
 
-## 🔗 Connect
+## 🛠️ Tech Stack
 
-| Platform | Link |
-|----------|------|
-| 🌐 Website | [pramod-jogdand.pages.dev](https://pramod-jogdand.pages.dev) |
-| 💻 GitHub | [@Prem2868](https://github.com/Prem2868) |
-| 💼 LinkedIn | [pramod-jogdand](https://linkedin.com/in/pramod-jogdand-49a5b8292) |
-| 🐦 Twitter | [@PSjogdand](https://twitter.com/PSjogdand) |
-| ❓ Quora | [Pramod-Jogdand-6](https://quora.com/profile/Pramod-Jogdand-6) |
-| 🔬 ORCID | [0009-0009-1259-4495](https://orcid.org/0009-0009-1259-4495) |
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+  <img src="https://img.shields.io/badge/AI/ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI/ML"/>
+  <img src="https://img.shields.io/badge/Network_Security-007ACC?style=for-the-badge&logo=wireshark&logoColor=white" alt="Network Security"/>
+  <img src="https://img.shields.io/badge/Threat_Analysis-DC3545?style=for-the-badge&logo=splunk&logoColor=white" alt="Threat Analysis"/>
+  <img src="https://img.shields.io/badge/LLM_Behavior_Analysis-6C757D?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Behavior Analysis"/>
+</p>
+
+## 🤝 Contribution Guidelines
+
+We welcome contributions from the community! Please refer to our [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines on how to get involved.
+
+## 📞 Contact
+
+- **Founder**: [@Prem2868](https://github.com/Prem2868)
+- **LinkedIn**: [Pramod Jogdand](https://linkedin.com/in/pramod-jogdand-49a5b8292)
+- **Twitter**: [@PSjogdand](https://twitter.com/PSjogdand)
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PremLabs-Security&show_icons=true&theme=radical" alt="PremLabs-Security GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PremLabs-Security&theme=radical" alt="GitHub Streak Stats"/>
+</p>
 
 ---
 
 <div align="center">
-
-
-
-![Research Status](https://img.shields.io/badge/Research_Pipeline-Active-brightgreen?style=for-the-badge)
-
-
-
-
-![Documentation](https://img.shields.io/badge/Documentation-Comprehensive-success?style=for-the-badge)
-
-
-
-**⭐ Star our repos if you find them useful!**
-
-**[⬆ Back to Top](#-premlabs-security-research-laboratory)**
-
+  **⭐ Star our repos if you find them useful!**
 </div>
